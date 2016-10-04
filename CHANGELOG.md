@@ -11,3 +11,7 @@
 ## 0.1.3
 
 - CHANGELOG.md replaced with proper change log.
+
+## 0.1.4
+
+- Added GitHub Repository, made description more aesthetically pleasing.
